@@ -31,7 +31,8 @@ git clone https://github.com/your-username/ghw-morse-code-translator.git
 
 2. Open the `index.html` file in a web browser.
 3. Enter text in the "Text" input field to translate it to Morse code use "word to morse" mode, or use "morse to word" to translate it to text.
-![Uploading Screenshot (556).png…]()
+![Screenshot (556)](https://github.com/nouha-belka/morse_translate/assets/84313345/69b87603-4b3f-4ee0-83c8-5385f02e0dee)
+
 ![Screenshot (557)](https://github.com/nouha-belka/morse_translate/assets/84313345/bd84e9c9-5047-4f12-a42c-6db228a81ad0)
 
 4. Click the corresponding "Translate" button to perform the translation.
